@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../nodejs"
+		},
+		{
+			"path": "C:/Users/ASUS/nhile"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../ptudwed/B1910472"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nhile"
+	}
+}
